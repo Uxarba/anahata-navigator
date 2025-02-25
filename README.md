@@ -14,9 +14,8 @@ Een interactieve gelaagde visualisatietool voor het verkennen van systemische ha
 - Modulaire architectuur
 
 ## Installatie
-\`\`\`bash
+```bash
 git clone https://github.com/Uxarba/anahata-navigator.git
 cd anahata-navigator
 npm install
 npm start
-\`\`\`
