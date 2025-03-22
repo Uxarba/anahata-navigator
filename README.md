@@ -1,7 +1,9 @@
 # Anahata Navigator
 
 Het **अनाहत (Anāhatā)**-project is een innovatieve onderneming die zich richt op het verkennen van de kruispunten tussen muziek, wiskunde en spirituele filosofie. Door gebruik te maken van 30-toons gelijkzwevende stemming (30-TET) en fractale harmonieën, streeft Anāhatā ernaar om nieuwe sonische landschappen en bewustzijnsniveaus te ontdekken.
-
+![Vaelin_Neonlines](https://github.com/user-attachments/assets/348b5086-b5ed-43b2-b96e-ec385e991834)
+![Vaelinfileds](https://github.com/user-attachments/assets/5358ed09-10ae-40d7-9ebb-3d7d1d00ade8)
+![Sailstone NeonLines](https://github.com/user-attachments/assets/5869c862-bc48-4394-8280-ae6434ddba51)
 **Kerncomponenten van het Anāhatā-project:**
 
 - **30-TET Fractale Harmonie:** Het toepassen van een 30-toons gelijkzwevende stemming om complexe en rijke harmonische structuren te creëren die verder gaan dan traditionele westerse muziekstemmingen.
@@ -30,4 +32,5 @@ Een interactieve gelaagde visualisatietool voor het verkennen van systemische ha
 git clone https://github.com/Uxarba/anahata-navigator.git
 cd anahata-navigator
 npm install
+
 npm start
